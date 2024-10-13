@@ -8,8 +8,6 @@ A fun and interactive game where players try to hit spiders as fast as they can.
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Gameplay](#gameplay)
-- [License](#license)
 
 ## Features
 
@@ -56,12 +54,3 @@ The game is simple but challenging:
 1. Spiders appear randomly on the screen, and your goal is to hit them as fast as possible.
 2. The game speeds up as you progress, making it harder to catch the spiders.
 3. At the end of the game, your score is saved, and you can try again to improve your ranking.
-
-### Controls:
-
-- **Mouse**: Use the mouse to click on spiders and score points.
-- **Buttons**: Use on-screen buttons to start a new game, view scores, or exit.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
